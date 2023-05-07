@@ -1,0 +1,26 @@
+.container{
+	border: 2px dotted red;
+	padding: 5%;
+	margin: 2% auto 2% auto;
+}
+
+.row{
+	border: 1px solid green;
+	padding: 5%;
+	margin: 2% auto 2% auto;
+}
+
+.impar{
+	border: 1px dotted pink;
+	padding: 5%;
+	margin: 2% auto 2% auto;
+	background-color: black;
+	color: pink;
+}
+
+.par{
+	border: 1px solid purple;
+	padding: 5%;
+	margin: 2% auto 2% auto;
+	background-color: floralwhite;
+}
